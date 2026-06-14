@@ -1,4 +1,4 @@
-# **Employee Chatbot – Project Blueprint**
+# **Salary-Bot – Project Blueprint**
 
 **Team:** 2 students
 **Class:** 12 (PCM)  
@@ -71,7 +71,7 @@ FastAPI returns answer → UI shows it
 ## **4. File Structure**
 
 ```
-employee-chatbot/
+Salary-Bot/
 │
 ├── README.md                 ← How to run (copy to GitHub)
 ├── requirements.txt          ← All libraries
