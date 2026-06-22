@@ -1,0 +1,7 @@
+1. APIs : Firebase; Main chatbot [ollama or grok]
+2. Speech to text
+3. Frequently asked questions: Drop down menu
+4. Auth: Through firebase. Google auth, and phone number
+5. Streamlit
+6. SQLite
+7. 
