@@ -36,7 +36,7 @@ if st.session_state.vector_store is not None:
             st.write(message)
 
     # User input
-    user_question = st.chat_input("Ask a question about the company terms:")
+    user_question = st.chat_input("Ask a question:")
 
     if user_question:
         # Show user message instantly
